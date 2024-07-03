@@ -3,12 +3,8 @@
 Developed a basic admin panel that include user registration. login functionality and CRUD operations on users
 
 ## Project Setup
-```markdown
-
-
-
-
 ### Client Setup
+```markdown
 1. Create a `client` directory:
    ```bash
    mkdir client
