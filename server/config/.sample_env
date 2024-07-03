@@ -1,0 +1,3 @@
+PORT = 5000
+MONGO_URI = Paste_your_mongoDB_String
+JWT= Paste_JWT_secret_key
